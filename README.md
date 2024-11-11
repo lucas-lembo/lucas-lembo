@@ -1,10 +1,9 @@
-## Hi, I'm Lucas Lembo de Lara 👋
+## Hi, I'm Lucas Lembo de Lara! 👋
 
-
-## Stats
+## Stats 📊
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lucas-lembo&show_icons=true&theme=dark)
 
-## Technologies
+## Technologies ⚡
 <div style="display: inline_block"><br>
   <img align="center" alt="C" height="25" width="50" src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white">
   <img align="center" alt="C++" height="25" width="75" src="https://camo.githubusercontent.com/87ebcbcddc1c9b3546d45ade2bef001c7414da050990771aed92e6a35874ca36/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d432b2b2d3030353939433f7374796c653d666c61742d737175617265266c6f676f3d63">
